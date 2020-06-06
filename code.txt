@@ -1,2 +1,2 @@
 this is the first line
-this is the second line on smart
+this is the second line on smartthis is the threed line on ubuntu
